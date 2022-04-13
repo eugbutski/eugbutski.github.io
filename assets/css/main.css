@@ -3492,14 +3492,14 @@ input, select, textarea {
   margin: 0;
   font-size: 17px;
   line-height: 22px;
-  color: #e4d0ff;
+  color: #ffffff;
 }
 
 .tl_container .tl_content ul,ol {
 	margin: 0;
 	font-size: 16px;
 	line-height: 22px;
-	color: #e4d0ff;
+	color: #ffffff;
   }
 
 @media (max-width: 767.98px) {
